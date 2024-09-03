@@ -69,7 +69,7 @@ This script performs real-time object detection using a pre-trained YOLOv5 model
 
 The script provides real-time object detection on video frames. If running with a webcam, it will display a live feed with detected objects highlighted. For demonstration purposes, if you have a sample frame with detected objects, you can include it as follows:
 
-![Sample Output Frame](output_frame.jpg)
+![Sample Output Frame](output_image.png)
 
 This example shows how to use YOLOv5 for real-time object detection in a video stream or webcam feed.
 
